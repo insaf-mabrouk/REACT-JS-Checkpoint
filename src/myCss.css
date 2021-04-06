@@ -1,0 +1,19 @@
+
+.form-control{
+    color: lightslategray;
+    border: 2px solid;
+    border-radius: 8px;
+
+}
+.form-label{
+    color: blue;
+
+}
+
+.Group{
+    color: #000;
+    
+}
+.form-control:hover{
+    background-color: mintcream;
+}
